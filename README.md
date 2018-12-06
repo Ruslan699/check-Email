@@ -1,1 +1,2 @@
-# check-Email
+# Check Inputs
+Simple Validation Process
